@@ -1,0 +1,41 @@
+Este sera un sitio web diseñado como un market digital de ventas de cortes de carne, principalmente de origen vacuno, tanto a empresas como a particulares.
+Waaka es una emrpesa imaginaria, creada por mi (Nahuel Fedyszyn), basandome en el modelo de negocios de una compañia que conoci viendo videos de cocina por YouTube, Grand Western Stakes.
+En esta empresa se centra en la produccion de cortes de carne, principalmente vacunos, realizando el proceso desde las granjas hasta la preparacion y empaquetado de los productos. 
+La empresa se distingue porque todos sus productos son de calidad restaurante, pero permitiendo a cualquier persona poder encargar dichos cortes; las empresas pueden contactar con Waaka para encargarles productos, pero los particulares tambien tendran esta opcion, pudiendo acceder a cortes de carne premium como a los que acceden los mejores restaurantes.
+
+El proyecto consta de dos sitios web, uno para que utilicen los usuarios tipo cliente, y otro para que utilicen los usuarios tipo administradores.
+
+-------------------------------------------------------------------
+
+* Sitio para usuarios tipo administradores:
+	
+Desde este sitio se manejaran todos los datos de la empresa que podran ver los usuarios, y permitir manipularlos, accion que debe permitir:
+- Añadir nuevos productos
+- Modificar datos de productos existentes
+- Eliminar/ocultar productos 
+- Consultar datos actuales
+
+Tambien el sitio web permitira crear ordenes de reposicion, las cuales se guardaran para enviar a las granjas como informacion sobre lo que la sede central necesita.
+
+-------------------------------------------------------------------
+
+* Sitio para usuarios clientes
+
+Desde este sitio se podra tener informacion sobre Waaka, tener un contacto con la misma via email y acceder al mercado digital mediante un login
+El sitio permitira la creacion de cuentas para poder acceder al mercado digital, y desde alli se permitiran consultar los productos que ofrece Waaka y comprar los productos que se deseen.
+
+-------------------------------------------------------------------
+
+Actualizaciones:
+
+17/02/2021
+
+Se inicio el proyecto, creando una carpeta para cada sitio, y una carpeta para las imagenes
+* SitioAdministradores:
+Se crearon las carpetas "Estilos" y "Pantallas"
+Se creo la pantalla login.html
+Se creo el archivo styles.css
+Se termino el diseño final de la pantalla login.html
+
+* SitioUsuarios:
+Sin cambios
